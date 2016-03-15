@@ -1,7 +1,7 @@
 #ActiveMQ 5.13.1
 
 FROM webcenter/openjdk-jre:8
-MAINTAINER Sebastien LANGOUREAUX <wanggang@wisiot.com>
+MAINTAINER Sebastien LANGOUREAUX <linuxworkgroup@hotmail.com>
 
 
 # Update distro and install some packages
